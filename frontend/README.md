@@ -53,3 +53,4 @@ Once implemented:
 cd frontend
 npm install
 npm run dev
+The app will expect environment variables defined in the root .env / .env.local.
